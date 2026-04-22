@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on project ThreatHunter<br>🌱 I’m currently learning programming language like python <br>💬 Ask me about antigravity with claude code extension and why i love it <br>⚡ Fun fact My first 'program' was a batch script that just opened 50 calculators to prank my brother.
+🔭 I’m currently working on project ThreatHunter<br>🌱 I’m currently learning programming language like Python <br>💬 Ask me about antigravity with claude code extension and why i love it <br>⚡ Fun fact My first 'program' was a batch script that just opened 50 calculators to prank my brother.
 
 
 ## 🌐 Socials:
